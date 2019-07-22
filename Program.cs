@@ -16,6 +16,7 @@ namespace WiredCoffeeConsoleTool
             while(true)
             {
                 var line = Console.ReadLine();
+                //random statement
 
                 var coffeeShops = coffeeShopDataProvider.LoadCoffeeShops();
 
